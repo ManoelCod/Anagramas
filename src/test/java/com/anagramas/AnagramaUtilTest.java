@@ -1,8 +1,10 @@
-package test;
+package com.anagramas;
 
-import utils.Anagrama;
 import java.util.List;
 import org.junit.jupiter.api.Test;
+
+import com.Anagramas.utils.Anagrama;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class AnagramaUtilTest {
