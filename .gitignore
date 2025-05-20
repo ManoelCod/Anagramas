@@ -1,0 +1,22 @@
+# Compilados Java
+*.class
+
+# Diretórios de build do Maven
+/target/
+
+# Arquivos de log
+*.log
+
+# Configurações do IDE
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
